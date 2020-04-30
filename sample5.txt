@@ -1,0 +1,25 @@
+QUESTION 1:
+Why an array is called “a homogeneous collection of data”?
+a. An array can store different types of data.
+b. Size of an array is limited.
+
+
+
+
+c. An array can store only one type of data.
+d. An array uses indices for addressing an item stored in it.
+Correct Answer: c
+Detailed Solution:
+Homogeneous data means data of same type and an array can contain only one type of data i.e.
+you cannot have an array with items of multiple data type.
+
+QUESTION 2:
+Which of the following is a class in Java?
+a. int
+b. String
+c. short
+d. double
+Correct Answer: b
+Detailed Solution:
+The class String is defined in java.lang package, which is a default package in any Java
+program. Others are data types in Java programming language.

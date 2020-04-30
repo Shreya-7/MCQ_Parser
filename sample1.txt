@@ -1,0 +1,83 @@
+Java Questions & Answers – Concepts of OOPs 
+This set of Java Multiple Choice Questions & Answers (MCQs) focuses on “Concepts of OOPs”.
+1. Which of the following is not OOPS concept in Java?
+a) Inheritance
+b) Encapsulation
+c) Polymorphism
+d) Compilation
+View Answer
+Answer: d
+Explanation: There are 4 OOPS concepts in Java. Inheritance, Encapsulation, Polymorphism and Abstraction.
+2. Which of the following is a type of polymorphism in Java?
+a) Compile time polymorphism
+b) Execution time polymorphism
+c) Multiple polymorphism
+d) Multilevel polymorphism
+View Answer
+Answer: a
+Explanation: There are two types of polymorphism in Java. Compile time polymorphism (overloading) and runtime polymorphism (overriding).
+3. When does method overloading is determined?
+a) At run time
+b) At compile time
+c) At coding time
+d) At execution time
+View Answer
+Answer: b
+Explanation: Overloading is determined at compile time. Hence, it is also known as compile time polymorphism.
+4. When Overloading does not occur?
+a) More than one method with same name but different method signature and different number or type of parameters
+b) More than one method with same name, same signature but different number of signature
+c) More than one method with same name, same signature, same number of parameters but different type
+d) More than one method with same name, same number of parameters and type but different signature
+View Answer
+Answer: d
+Explanation: Overloading occurs when more than one method with same name but different constructor and also when same signature but different number of parameters and/or parameter type.
+5. Which concept of Java is a way of converting real world objects in terms of class?
+a) Polymorphism
+b) Encapsulation
+c) Abstraction
+d) Inheritance
+View Answer
+Answer: c
+Explanation: Abstraction is the concept of defining real world objects in terms of classes or interfaces.
+6. Which concept of Java is achieved by combining methods and attribute into a class?
+a) Encapsulation
+b) Inheritance
+c) Polymorphism
+d) Abstraction
+View Answer
+Answer: a
+Explanation: Encapsulation is implemented by combining methods and attribute into a class. The class acts like a container of encapsulating properties.
+7. What is it called if an object has its own lifecycle and there is no owner?
+a) Aggregation
+b) Composition
+c) Encapsulation
+d) Association
+View Answer
+Answer: d
+Explanation: It is a relationship where all objects have their own lifecycle and there is no owner. This occurs where many to many relationships are available, instead of one to one or one to many.
+advertisement
+
+8. What is it called where child object gets killed if parent object is killed?
+a) Aggregation
+b) Composition
+c) Encapsulation
+d) Association
+View Answer
+Answer: b
+Explanation: Composition occurs when child object gets killed if parent object gets killed. Aggregation is also known as strong Aggregation.
+9. What is it called where object has its own lifecycle and child object cannot belong to another parent object?
+a) Aggregation
+b) Composition
+c) Encapsulation
+d) Association
+View Answer
+Answer: a
+Explanation: Aggregation occurs when objects have their own life cycle and child object can associate with only one parent object.
+10. Method overriding is combination of inheritance and polymorphism?
+a) True
+b) false
+View Answer
+Answer: a
+Explanation: In order for method overriding, method with same signature in both superclass and subclass is required with same signature. That satisfies both concepts inheritance and polymorphism.
+

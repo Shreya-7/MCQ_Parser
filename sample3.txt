@@ -1,0 +1,97 @@
+1) The default value of a static integer variable of a class in Java is,
+(a) 0 (b) 1 (c) Garbage value (d) Null (e) -1.
+A) a
+2) What will be printed as the output of the following program?
+public class testincr
+{
+public static void main(String args[])
+{
+int i = 0;
+i = i++ + i;
+System.out.println(“I = ” +i);
+}
+}
+(a) I = 0 (b) I = 1 (c) I = 2 (d) I = 3 (e) Compile-time Error.
+A) b
+3) Multiple inheritance means,
+(a) one class inheriting from more super classes
+(b) more classes inheriting from one super class
+(c) more classes inheriting from more super classes
+(d) None of the above
+(e) (a) and (b) above.
+A) a
+4) Which statement is not true in java language?
+(a) A public member of a class can be accessed in all the packages.
+(b) A private member of a class cannot be accessed by the methods of the same class.
+(c) A private member of a class cannot be accessed from its derived class.
+(d) A protected member of a class can be accessed from its derived class.
+(e) None of the above.
+A) b
+5) To prevent any method from overriding, we declare the method as,
+(a) static (b) const (c) final (d) abstract (e) none of the above.
+A) c
+6) Which one of the following is not true?
+(a) A class containing abstract methods is called an abstract class.
+(b) Abstract methods should be implemented in the derived class.
+(c) An abstract class cannot have non-abstract methods.
+(d) A class must be qualified as ‘abstract’ class, if it contains one abstract method.
+(e) None of the above.
+A) c
+7) The fields in an interface are implicitly specified as,
+(a) static only (b) protected (c) private
+(d) both static and final (e) none of the above.
+A) d
+8) What is the output of the following program:
+public class testmeth
+{
+static int i = 1;
+public static void main(String args[])
+{
+System.out.println(i+” , “);
+m(i);
+System.out.println(i);
+}
+public void m(int i)
+{
+i += 2;
+}
+}
+(a) 1 , 3 (b) 3 , 1 (c) 1 , 1 (d) 1 , 0 (e) none of the above.
+A) c
+9) Which of the following is not true?
+(a) An interface can extend another interface.
+(b) A class which is implementing an interface must implement all the methods of the interface.
+(c) An interface can implement another interface.
+(d) An interface is a solution for multiple inheritance in java.
+(e) None of the above.
+A) c
+10) Which of the following is true?
+(a) A finally block is executed before the catch block but after the try block.
+(b) A finally block is executed, only after the catch block is executed.
+(c) A finally block is executed whether an exception is thrown or not.
+(d) A finally block is executed, only if an exception occurs.
+(e) None of the above.
+A) c
+Java Multiple Choice Questions And Answers
+11) Among these expressions, which is(are) of type String?
+(a) “0” (b) “ab” + “cd”
+(c) ‘0’
+(d) Both (A) and (B) above (e) (A), (B) and (C) above.
+12) Consider the following code fragment
+Rectangle r1 = new Rectangle();
+r1.setColor(Color.blue);
+Rectangle r2 = r1;
+r2.setColor(Color.red);
+After the above piece of code is executed, what are the colors of r1 and
+r2 (in this order)?
+(a) Color.blue
+Color.red
+(b) Color.blue
+Color.blue
+(c) Color.red
+Color.red
+(d) Color.red
+Color.blue
+(e) None of the above.
+A) c
+

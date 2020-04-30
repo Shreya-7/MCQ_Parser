@@ -1,0 +1,178 @@
+1. …………………….. statement provides an easy way to dispatch execution to different parts of your code based on the value of an expression.
+A) if-else
+B) switch
+C) if
+D) while
+2. State whether the following statements about switch statement are correct.
+i) Switch statement often provides a better alternative than a large series of if-else-if statements.
+ii)The break statement is used inside the switch to terminate a statement sequence.
+A) True, False
+B) False, True
+C) True, True
+D) False, False
+
+3. The conditional statement, ………………. can only test for equality, whereas ……………….  can evaluate any type of Boolean expression.
+A) if, switch
+B) switch, if
+C) while, if
+D) if, while
+4. What will be the output of the following code snippet?
+int a=15;
+int b=25;
+if ((a<b) || (a=5)>15)
+   system.out.println(a);
+else
+   system.out.println(b);
+A) Error
+B) 15
+C) 25
+D) No output
+
+5. What will be the output of the following code.
+int x, y;
+x=15; y=20;
+if (x>15)
+   if(y>15)
+       {
+           system.ptintln(“y is  “+y);
+        }
+   else
+         system.out.ptintln(“x is “+x);
+A) Error
+B) y is 20
+C) x is 15
+D) No output
+6. In while and do-while loops, a ………………… statement causes control to be transferred  directly to the conditional  expression that controls the loop.
+A) break
+B) pause
+C) start
+D) continue
+
+7. State whether the following statements about switch statement are True or False.
+i) No two case constants in the same switch can have identical values.
+ii) A switch statement is usually more efficient than a set of nested ifs.
+A) True, False
+B) False, True
+C) True, True
+D) False, False
+8. State whether the following statements about conditional statements are True or False.
+i) The break statement is required in the default case of a switch selection structure.
+ii) A variable declared inside the for loop control cannot be reference outside the loop.
+A) True, False
+B) False, True
+C) True, True
+D) False, False
+9. Which of the following control expressions are valid for an if statement?
+A) an integer expression
+B) a Boolean expression
+C) either A or B
+D) Neither A or B
+10. In the following code snippet, which lines of code contain error?
+1. int j=0;
+2. while (j<10){
+3. j++;
+4. if (j==5) continue loop;
+5. system.out.ptintln(“j is ” +j);}
+A) Line 2
+B) Line 3
+C) Line 4
+D) Line 5
+
+11.  State output of the following code
+int x=20;
+int y=10;
+if(x>y)
+   {
+       if (y>10)
+       system.out.println(“y is “+y);
+   }
+else
+     system.out.println(“x is  “+x);
+A) Error
+B) x is 20
+C) y is 10
+D) No output
+12. By using …………………….., you can force immediate termination of loop, bypassing the conditional expression and any remaining code in the body of the loop.
+A) switch
+B) break
+C) continue
+D) default
+13. The ………………………. loop is especially useful when you process a menu selection.
+A) while
+B) do-while
+C) for
+D) switch
+14.  If you need to select among a large group of values, a switch statement will run much faster than the equivalent logic coded using ……………….. statement.
+A) if
+B) if-else
+C) do-while
+D) while
+15. What will be the output of the following code.
+int j=50;
+while(true)
+{
+  if(j<10)
+     break;
+     j=j-10;
+ }
+system.out.ptintln(“j is  “+j);
+A) Error
+B) j is 0
+C) j is 50
+D) No output
+16. Here is a segment of a program
+x=1;
+y=1;
+ if(n>0)
+  x=x+1;
+  y=y-1;
+what will be the values of x and y if n=1.
+A) x=1, y=1
+B) x=0, y=2
+C) x=2, y=1
+D) x=2, y=0
+17. The ………………. is an optional case, when it will be executed if the value of the expression does not match with any of the case values.
+A) switch
+B) break
+C) continue
+D) default
+18. The ……………………… statement at the end of each block signals the end of a particular case and causes an exit from the switch statement, transferring the control to the statement following the switch.
+A) switch
+B) break
+C) continue
+D) default
+19. The ………………… statement tests the value of a given variable against a list of case values and when a match is found, a block of statements associated with that case is executed.
+A) switch
+B) break
+C) continue
+D) default
+20. State whether the following statements for if statement are True or False.
+i) When if statements are nested, the last else gets associated with the nearest if without an else.
+ii) One if can have more than one else clause.
+A) True, False
+B) False, True
+C) True, True
+D) False, False
+
+Answers
+1. B) switch
+2. C) True, True
+3. B) switch, if
+4. B) 15
+5. C) x is 15
+6. D) continue
+7. C) True, True
+8. B) False, True
+9. B) a Boolean expression
+10. A) Line 2
+11. D) No output
+12. B) break
+13. B) do-while
+14. B) if-else
+15. B) j is 0
+16. D) x=2, y=0
+17. D) default
+18. B) break
+19. A) switch
+20. C) True, True
+

@@ -1,0 +1,97 @@
+1. 
+Java is a ........... language. 
+A. 
+ 
+weakly typed
+B. 
+ 
+strongly typed
+C. 
+ 
+moderate typed
+D. 
+ 
+None of these
+Answer & Solution Discuss in Board Save for Later 
+Answer & Solution
+Answer: Option B 
+No explanation is given for this question Let's Discuss on Board 
+
+2. 
+How many primitive data types are there in Java? 
+A. 
+ 
+6
+B. 
+ 
+7
+C. 
+ 
+8
+D. 
+ 
+9
+Answer & Solution Discuss in Board Save for Later 
+Answer & Solution
+Answer: Option C 
+Solution: 
+Primitive types are the most basic data types available within the Java language. There are 8: boolean , byte , char , short , int , long , float and double . 
+
+3. 
+In Java byte, short, int and long all of these are 
+A. 
+ 
+signed
+B. 
+ 
+unsigned
+C. 
+ 
+Both of the above
+D. 
+ 
+None of these
+Answer & Solution Discuss in Board Save for Later 
+Answer & Solution
+Answer: Option A 
+No explanation is given for this question Let's Discuss on Board 
+
+
+4. 
+Size of int in Java is 
+A. 
+ 
+16 bit
+B. 
+ 
+32 bit
+C. 
+ 
+64 bit
+D. 
+ 
+Depends on execution environment
+Answer & Solution Discuss in Board Save for Later 
+Answer & Solution
+Answer: Option B 
+No explanation is given for this question Let's Discuss on Board 
+
+5. 
+The smallest integer type is ......... and its size is ......... bits. 
+A. 
+ 
+short, 8
+B. 
+ 
+byte, 8
+C. 
+ 
+short, 16
+D. 
+ 
+short, 16
+Answer & Solution Discuss in Board Save for Later 
+Answer & Solution
+Answer: Option B 
+No explanation is given for this question Let's Discuss on Board
+

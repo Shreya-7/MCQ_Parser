@@ -1,0 +1,21 @@
+During constructor overloading, which of the following should be used in a parameterized
+constructor to call the default constructor?
+A. The parameterized constructor should be declared final in order for it to call the default
+ANSWER: B
+EXPLANATION: The this() reference should be used as the first statement inside the parameterized constructor
+in order to redirect
+
+Which of the following is an invalid method overloading?
+A. The this() reference should be used as the first statement inside the parameterized
+ANSWER: D
+EXPLANATION: In Java, method overloading is not possible by changing only the return type of the method. It is
+ambiguous because multiple methods having same parameter signature may execute together.
+
+Which of the following is/are TRUE regarding the string array provided as a parameter to
+the main method in Java?
+A. The this() reference should be used anywhere inside the parameterized constructor.
+B. It is not possible to implicitly call the default constructor from parameterized
+ANSWER: A
+EXPLANATION: In Java, the function of the string array provided in the main method is to get the command line
+arguments provided by the user during the execution of the program. This is just like any other
+
